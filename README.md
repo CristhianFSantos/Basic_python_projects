@@ -1,6 +1,7 @@
 <h1 align="center">
-<img src="https://github.com/CristhianFSantos/Basic_python_projects/blob/main/logo.png?raw=true" alt="Logo" height="500">
+<img src="https://github.com/CristhianFSantos/Basic_python_projects/blob/main/logo.png?raw=true" alt="Logo" height="400">
 </h1>
+
 ## 📖 Sobre o projeto
 
 **Projetos distintos em Python para implementar vários conceitos e treinar o uso da linguagem**
