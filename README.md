@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/CristhianFSantos/Basic_python_projects/blob/main/logo.png?raw=true" alt="Logo" height="70">
+<img src="https://github.com/CristhianFSantos/Basic_python_projects/blob/main/logo.png?raw=true" alt="Logo" height="200">
 </h1>
 ## 📖 Sobre o projeto
 
