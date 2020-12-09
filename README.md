@@ -1,4 +1,5 @@
-<img src="https://github.com/CristhianFSantos/Basic_python_projects/blob/main/logo.png?raw=true" alt="Logo" height="400">
+
+<img src="https://raw.githubusercontent.com/CristhianFSantos/Basic_python_projects/main/logo.png" alt="Logo" height="400">
 </h1>
 
 ## 📖 Sobre o projeto
