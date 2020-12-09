@@ -1,4 +1,3 @@
-<h1 align="center">
 <img src="https://github.com/CristhianFSantos/Basic_python_projects/blob/main/logo.png?raw=true" alt="Logo" height="400">
 </h1>
 
